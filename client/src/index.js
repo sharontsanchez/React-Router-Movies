@@ -11,4 +11,7 @@ ReactDOM.render(
     </Router>
     , document.getElementById('root'));
 
-// it gives us access to history, match and location. These are built into the browser. Browers are web application with built in functionality like APIs. React Router is hooking into that functionality in order to be used in React.
+// it gives us access to history, match and location. 
+// These are built into the browser. 
+// Browsers are web application with built in functionality like APIs.
+// React Router is hooking into that functionality in order to be used in React.
